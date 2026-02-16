@@ -1,0 +1,61 @@
+                                THE 57 KEY WORDS OF JAVA
+Abstract – an abstract class cannot be instantiated
+Assert    - assert checks if a condition is true during debugging
+Boolean – Boolean stores true or false values 
+Break – break stops a loop immediately
+Byte – byte stores a small integer values 
+Case – case defines an option inside a switch statement
+Catch – catch handles an exception
+Char -char stores a single character
+Class - class defines a blueprint for objects
+Const – const is reserved but not used in java.
+Continue -skips to the next loop iteration
+Default – runs when no switch case matches
+Do – starts a do-while loop
+Double – double stores decimal numbers with high precision
+Else – else runs when an if condition is false
+Enum – defines a fixed set of constants
+Extends – allows a class to inherit another class 
+Final – final prevents modification or inheritance
+Finally – always executes after try-catch
+Float – stores decimal numbers
+For – creates a loop with initialization and update
+Goto – reserved but not used
+If – checks a condition
+Implements – allows a class to use an interface
+Import – includes another package
+Instanceof – check an object’s type
+Int – stores integers
+Interface – defines method rules without bodies
+Long – stores large integers
+Native – links java with other languages like c
+New – creates an object 
+Package – groups related classes 	
+Private – restricts access within a class 
+Protected – allows access within package and subclasses
+Public – allows access everywhere
+Return – sends a value back from a method 
+Short – stores small integers 
+Static – belongs to the class, not objects
+Strictfp – ensures consistent floating-point calculations
+Super – refers to the parent class
+Switch – switch selects one block among many
+Synchronized – controls thread access
+ This – refers to the current object
+Throw – declares possible exceptions 
+Void – means no return value
+Transient – prevents serialization of a variable
+Try – tests code that may cause exceptions
+Volatile – ensures variable updates across threads
+While – repeats code while a condition is true
+True – represents a Boolean true value
+False – represents a Boolean false value
+Null – means no objects reference 
+Var – lets java infer variable type (java 10+)
+Yield – returns a value in a switch expression 
+Record – creates a compact data class 
+Sealed – restricts which classes can extend a class
+
+
+
+
